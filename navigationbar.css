@@ -1,0 +1,51 @@
+#navbar{
+    background-image: url(./inurance\ image.jpg);
+    background-size: 12% 100px;
+    background-repeat: no-repeat;   
+        margin: -10px;
+        width: 102%;
+        height: 100px;
+        background-color:rgb(203, 32, 32);
+        padding: 0%;
+        float:right;   
+ }
+
+
+#main{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    list-style: none;
+    font-weight: bold;
+    margin-left: 300px;
+}
+a{
+    color:white;
+    text-decoration: none;    
+}
+.li1{
+    padding-top: 30px;
+    text-align: center;
+    margin-top: -22px;
+    height: 50px;
+    width: 120px;
+    margin-left: -40px;
+    margin-right: 100px;
+
+}
+
+    body{
+        background-image: url(./insurance.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 800PX;
+    }
+
+    marquee{
+          margin-top: 80px;
+          color:aqua;
+          font-weight: bold;
+          text-align: center;
+          font-size: 35px;
+    }
+ 

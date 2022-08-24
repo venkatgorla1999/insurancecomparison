@@ -1,0 +1,273 @@
+#navbar{
+    background-image: url(./hair-salon-logo-.jpg);
+    background-size: 12% 100px;
+    background-repeat: no-repeat;   
+        margin: 0px;
+        width: 100%;
+        height: 100px;
+        background-color:rgb(5, 4, 4);
+        margin-top: 0px; 
+        float:right;   
+ }
+
+#main{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    list-style: none;
+    font-weight: bold;
+    margin-left: 300px;
+}
+
+.li1{
+    padding-top: 30px;
+    text-align: center;
+    margin-top: -22px;
+    height: 50px;
+    width: 120px;
+    background-color: rgb(19, 5, 5);
+    margin-left: -40px;
+    margin-right: 100px;
+
+}
+.li1:hover{
+    padding-top: 35px;
+    text-align: center;
+    margin-top: -22px;
+    height: 50px;
+    width: 120px;
+    background-color: rgb(240, 6, 6);
+    
+}
+#BookAPP{
+    margin-left: 200PX;
+    font-size: 20PX;
+  border: 3.5PX red groove;
+  width: 150PX;
+  background-color:gray;
+}
+#BookAPP:hover{
+    background-color: rgb(38, 171, 35);
+    width:150px ;
+    
+    
+}
+#active{
+    background-color: red;
+}
+
+a{
+    color:white;
+    text-decoration: none;    
+}
+
+#sub{
+    text-align: center;
+    margin-top: 60px;
+    display: none;
+    margin-left: -80px;
+    list-style: none;
+    font-size: 15px;
+    background-image: linear-gradient(red rgb(204, 248, 9));   
+}
+
+.sublist{
+    margin-left: -45px;
+    padding-bottom: 20px;
+  
+}
+.sublist:hover{
+  
+    text-align: left;
+    background-color: red;
+    margin-left: -45px;
+    padding-bottom: 20px;
+}
+#list:hover #sub{
+display:block;
+}
+
+#para{
+    padding-top: 30px;
+    color: white;
+    font-size: 25px;
+    text-align: justify;
+    font-family:cursive ;
+}
+#para2{
+    width: 50%;
+    color: white;
+    font-size: 25px;
+    text-align: justify;
+    font-family:cursive ;
+
+}
+
+#line1 ,#line2{
+    color: goldenrod;
+}
+
+#video
+{
+ 
+    margin-top: -200px;
+    margin-left: 850px;
+}
+#img1{
+    width: 200px;
+    height: 200px;
+    margin-top: -180px;
+    margin-left: 35px;
+    border: 7px rgb(43, 59, 181) groove;
+    box-shadow:5px 5px 30px black;
+}
+#img2{
+    width: 200px;
+    height: 200px;
+    margin-top: -180px;
+    margin-left: 50px;
+    border: 7px goldenrod groove;
+    box-shadow:5px 5px 30px black;
+}
+#img3{
+    width: 200px;
+    height: 200px;
+    margin-top: -180px;
+    margin-left: 50px;
+    border: 7px rgb(74, 54, 209) groove;
+    box-shadow:5px 5px 30px black;
+}
+#img{
+    width: 55%;
+}
+#ppp4{
+    width: 55%;
+    height:300px;
+    text-align: justify;
+    font-size: 25px ;
+    color: rgb(252, 252, 255);
+    font-family:cursive ;
+}
+
+
+
+
+#bap{
+    color: aqua;
+    margin-left: 250px;
+    margin-top: -755px;
+    text-shadow:5px 5px 15px greenyellow ;
+    text-decoration: underline;
+    
+    
+}
+#services{
+    word-spacing: 10px;
+    margin-left: 1020px;
+    margin-top: 50px;
+    color:aqua;
+    text-shadow:5px 5px 15px rgb(181, 10, 10) ;
+    
+    box-shadow:5px 5px 15px yellow ;
+    width: 370px;
+    
+}
+
+#prices{
+    margin-left: 1020px;
+    word-spacing: 15px;
+    text-transform: uppercase;
+    color: azure;
+    
+}
+
+#prices2{
+    margin-left: 300px;
+    word-spacing: 10px;
+    text-transform: uppercase;
+    color: azure;
+    margin-top: -375px;
+}
+
+#gst{
+    color: rgb(181, 235, 4);
+    margin-left: 230px;
+    border: 5px red groove;
+    width: 170px;
+    
+}
+
+
+
+#tt{
+margin-left: 250px;
+color: white;
+
+}
+.form{
+    background-color: rgb(45, 175, 121);
+    height:400px ;
+    width: 500px;
+    border-radius: 30px;
+}
+#all{
+   
+    margin-left: 70px;
+    padding-top: 60px;
+}
+#name1 , #name2 ,#name3 ,#name4 ,#name5{
+    width: 300px;
+    height: 30px;
+}
+#submitbtn{
+    width: 200px;
+    height: 30px;
+    margin-left: 50px;
+}
+.align{
+    margin-left: 700px;
+}
+
+
+#marquee{
+    font-weight: bold;
+    margin-left: -1020px;
+    margin-bottom: -80px;
+    width: 1235px;
+    color: darkorange;
+    font-size: 30px;
+   
+   
+    
+}
+#downbar{
+        
+            width: 350%;
+            height: 350px;
+            background-color:rgb(45, 22, 22);
+            margin-top: 80px;
+            margin-left: -1020px;
+            
+            
+}           
+
+#climax{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    list-style: none;
+    font-weight: bold;
+}
+
+#climax2{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+    margin-left: 1000px;
+    margin-top:-242px ;
+    list-style: none;
+    font-weight: bold;
+
+}

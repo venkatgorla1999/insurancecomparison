@@ -1,0 +1,132 @@
+#navbar{
+        background-image: url(./inurance\ image.jpg);
+        background-size: 12% 100px;
+        background-repeat: no-repeat;   
+        margin: -10px;
+        width: 102%;
+        height: 100px;
+        background-color:rgb(203, 32, 32);
+        padding: 0%;
+        float:right;   
+ }
+#main{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: rgb(0, 162, 40);
+    display: flex;
+    list-style: none;
+    font-weight: bold;
+    margin-left: 300px;
+}
+a{
+    color:white;
+    text-decoration: none;    
+}
+.li1{
+    padding-top: 30px;
+    text-align: center;
+    margin-top: -22px;
+    height: 50px;
+    width: 120px;
+    margin-left: -40px;
+    margin-right: 100px;
+}
+    marquee{
+          margin-top: 80px;
+          color:aqua;
+          font-weight: bold;
+          text-align: center;
+          font-size: 35px;
+    }
+#img1{
+    width: 20%;
+    height: 200px;
+    margin-left:120px;
+    margin-top: 100px;
+}
+#rrr1{
+    width: 10%;
+    padding: 0px;
+    margin-left: 190px;
+    border: rgb(182, 59, 59) 5px groove;
+}
+
+#para1{
+    color: aliceblue;
+    margin-top: -300px;
+    float: right;
+    width: 60%;
+   text-align: justify;
+   font-size: 20px;
+}
+#img2{
+    width: 20%;
+    height: 200px;
+    margin-left: 120px;
+    margin-top: 200px;
+}
+
+#rrr2{
+
+    width: 10%;
+    padding: 0px;
+    margin-left: 190px;
+    border: rgb(182, 59, 59) 5px groove;
+}
+
+#para2{
+    color: aliceblue;
+    margin-top: -300px;
+    float: right;
+    width: 60%;
+   text-align: justify;
+   font-size: 20px;
+}
+
+#img3{
+    width: 20%;
+    height: 200px;
+    margin-left: 120px;
+    margin-top: 200px;
+}
+#rrr3{
+
+    width: 10%;
+    padding: 0px;
+    margin-left: 190px;
+    border: rgb(182, 59, 59) 5px groove;
+}
+#para3{
+    color: aliceblue;
+    margin-top: -300px;
+    float: right;
+    width: 60%;
+   text-align: justify;
+   font-size: 20px;
+}
+
+#img4{
+    width: 20%;
+    height: 200px;
+    margin-left: 120px;
+    margin-top: 200px;
+}
+#rrr4{
+    width: 10%;
+    padding: 0px;
+    margin-left: 190px;
+    border: rgb(182, 59, 59) 5px groove;
+}
+#para4{
+    color: aliceblue;
+    margin-top: -300px;
+    float: right;
+    width: 60%;
+   text-align: justify;
+   font-size: 20px;
+}
+
+
+ #ab{
+    color: chartreuse;
+ }
